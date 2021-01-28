@@ -1,3 +1,3 @@
 # Sassy Card
 
-![ScreenShot](assets\images\sassy-card.png "ScreenShot")
+![ScreenShot](./assets/images/sassy-card.png "ScreenShot")
